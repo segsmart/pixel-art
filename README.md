@@ -1,1 +1,1 @@
-# pixel-art
+# ALC 7days Project
